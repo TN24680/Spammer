@@ -1,5 +1,5 @@
 {
-    "logWebhook": "",
-    "spamSpeed": 1500,
+    "logWebhook": "https://discord.com/api/webhooks/1259374757648793641/Qcb3Vzv88aQwjNIs_qBcIe5YH3LA9tBehmcN2RSxfRRfDObACJJqUeA9h0SeuebSxVEN",
+    "spamSpeed": 500,
     "debug": false
 }
